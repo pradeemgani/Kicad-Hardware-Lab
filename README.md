@@ -10,14 +10,14 @@ This repository documents my hands-on work in **analog electronics, digital elec
 
 | # | Project | Category |
 |---|---|---|
-| 1 | 4-bit Binary Counter | Digital Electronics |
+| 1 | BJT AMPLIFIER | Analog  Electronics |
 | 2 | Full Wave Rectifier | Power Electronics |
 | 3 | Half Wave Rectifier | Power Electronics |
 | 4 | Inverting Amplifier | Analog Electronics |
-| 5 | NAND Gate | Digital Electronics |
-| 6 | Non-Inverting Amplifier | Analog Electronics |
-| 7 | RGB LED Controller | Embedded Electronics |
-| 8 | Voltage Regulator | Power Electronics |
+| 5 | JK FLIP FLOP | Digital Electronics |
+| 6 | RC PHASE SHIFT OSCILLATOR | Analog Electronics |
+| 7 | SIMPLE CONTINUITY TESTER | Analog/Discrete Electronics |
+| 8 | Regulator POWER SUPPLY | Power Electronics |
 
 More projects will be added as the hardware design work continues.
 
@@ -43,13 +43,13 @@ Each project contains the KiCad design files required to open and continue worki
 ```text
 KiCad-Hardware-Lab/
 │
-├── 4-bit-Binary-Counter/
+├── /BJT AMPLIFIER
 ├── Full-Wave-Rectifier/
 ├── Half-Wave-Rectifier/
 ├── Inverting-Amplifier/
-├── NAND-Gate/
-├── Non-Inverting-Amplifier/
-├── RGB-LED-Controller/
-├── Voltage-Regulator/
+├── JK FLIP FLOP/
+├── RC PHASE SHIFT OSCILLATOR/
+├── SIMPLE CONTINUITY TESTER/
+├── Regulator POWER SUPPLY/
 │
 └── README.md
